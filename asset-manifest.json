@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/form-parth2/static/css/main.6db5275d.chunk.css",
+    "main.js": "/form-parth2/static/js/main.4b4d7f46.chunk.js",
+    "main.js.map": "/form-parth2/static/js/main.4b4d7f46.chunk.js.map",
+    "runtime-main.js": "/form-parth2/static/js/runtime-main.0a95523e.js",
+    "runtime-main.js.map": "/form-parth2/static/js/runtime-main.0a95523e.js.map",
+    "static/css/2.32c1ecfd.chunk.css": "/form-parth2/static/css/2.32c1ecfd.chunk.css",
+    "static/js/2.80fc2cc0.chunk.js": "/form-parth2/static/js/2.80fc2cc0.chunk.js",
+    "static/js/2.80fc2cc0.chunk.js.map": "/form-parth2/static/js/2.80fc2cc0.chunk.js.map",
+    "static/js/3.aa35a665.chunk.js": "/form-parth2/static/js/3.aa35a665.chunk.js",
+    "static/js/3.aa35a665.chunk.js.map": "/form-parth2/static/js/3.aa35a665.chunk.js.map",
+    "index.html": "/form-parth2/index.html",
+    "static/css/2.32c1ecfd.chunk.css.map": "/form-parth2/static/css/2.32c1ecfd.chunk.css.map",
+    "static/css/main.6db5275d.chunk.css.map": "/form-parth2/static/css/main.6db5275d.chunk.css.map",
+    "static/js/2.80fc2cc0.chunk.js.LICENSE.txt": "/form-parth2/static/js/2.80fc2cc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a95523e.js",
+    "static/css/2.32c1ecfd.chunk.css",
+    "static/js/2.80fc2cc0.chunk.js",
+    "static/css/main.6db5275d.chunk.css",
+    "static/js/main.4b4d7f46.chunk.js"
+  ]
+}
